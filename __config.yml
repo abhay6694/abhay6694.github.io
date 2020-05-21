@@ -40,10 +40,10 @@ coursera:
       optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
       date: September 16, 2013
 #List of interesting Github repo/projects to include - optional
-github:
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
+#github:
+ #- abhay/twitter-sentiment-analysis
+ #- robhinds/spring-reactor-twitter
+ #- robhinds/microservices
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://stackoverflow.com/users/258813/rhinds
