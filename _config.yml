@@ -74,7 +74,6 @@ coursera:
    courses:
     - title: Named Entity Recognition using LSTMs with Keras
       link: https://www.coursera.org/projects/named-entity-recognition-lstm-keras-tensorflow
-      optionalimage: img/1_HpKh-MGZIq-GyRAiqEUnSw.png
       date: May	16, 2020
 
 udemy:
@@ -82,7 +81,6 @@ udemy:
    courses:
     - title: Python and django full stack web developer bootcamp
       link: https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
-      optionalimage: img/1_25Le7KoMK_z6BIaM8x74RA.png
       date: May 21, 2020
 
 #List of interesting Github repo/projects to include - optional
