@@ -85,11 +85,11 @@ udemy:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - abhayagarwal94/abhayagarwal94.github.io
- - abhayagarwal94/Social-Interaction-WebApp
- - abhayagarwal94/Face-Similarity
- - abhayagarwal94/IoT-Data-Analytics
- - abhayagarwal94/LoanPrediction
+ - abhayagarwal94.github.io
+ - Social-Interaction-WebApp
+ - Face-Similarity
+ - IoT-Data-Analytics
+ - LoanPrediction
 
 #Stackoverflow flair is optional
 stackoverflow:
