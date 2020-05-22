@@ -74,7 +74,7 @@ coursera:
    courses:
     - title: Named Entity Recognition using LSTMs with Keras
       link: https://www.coursera.org/projects/named-entity-recognition-lstm-keras-tensorflow
-      optionalimage: https://www.google.com/search?q=nlp&sxsrf=ALeKk019oEXEWoMNYiIHVUuH-lFq ywvZA:1590139868695&source=lnms&tbm=isch&sa=X&ved=2ahUKEwid4ZDQlMfpAhXSILcAHXmzD2EQ_AUoAnoECBoQBA#imgrc=W8RhX3QXvy3woM
+      optionalimage: img/1_HpKh-MGZIq-GyRAiqEUnSw.png
       date: May	16, 2020
 
 udemy:
@@ -82,7 +82,7 @@ udemy:
    courses:
     - title: Python and django full stack web developer bootcamp
       link: https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
-      optionalimage: https://www.google.com/search?q=django&tbm=isch&ved=2ahUKEwjn2seHmMfpAhWtMXIKHehdANoQ2-cCegQIABAA&oq=django&gs_lcp=CgNpbWcQAzIECCMQJzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzICCAAyAggAUPQVWOUaYM0caABwAHgAgAGUAogB4QmSAQUwLjMuM5gBAKABAaoBC2d3cy13aXotaW1n&sclient=img&ei=dp_HXufHDq3jyAPou4HQDQ&bih=984&biw=1855#imgrc=5hpgJBY2ZPz19M
+      optionalimage: img/1_25Le7KoMK_z6BIaM8x74RA.png
       date: May 21, 2020
 
 #List of interesting Github repo/projects to include - optional
