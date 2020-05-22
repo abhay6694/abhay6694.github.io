@@ -24,6 +24,7 @@
 }
 .label-info, .badge-info {
 	background-color: #005985;
+	font-weight: bold;
 	text-shadow:none;
 	font-weight: normal;
 
