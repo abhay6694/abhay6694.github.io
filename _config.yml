@@ -40,23 +40,23 @@ skills:
 #Work experience is required
 roles:
  - title: Digial Product Manager
-   start: Nov'2019
+   start: Nov'19
    end: Ongoing
    employer: Freelancer
    description: Giving consultancy services for digital product creation to management involving large scale data analysis. Product Designing, testing, releasing, post-release reponse analysis such as funnnel visualization, A/B testing for new features etc.
  - title: Data Analyst
-   start: Jun'2017
-   end: Oct'2019
+   start: Jun'17
+   end: Oct'19
    employer: Squareone Insights Pvt. Ltd.
    description: Initially, My role involved maintaining library of model documents, templates,& other reusable knowledge assets as well as gather business requirements from digital innovation teams. Eventually, I started drafting analytical solution and implementation approaches for different business problems using different algorithms such as classification(Logistics Regression, DT, RF, Naive Bayes), Time-series analysis, clustering techniques etc.
  - title: Business Analyst
-   start: Jul'2016
-   end: May'2017
+   start: Jul'16
+   end: May'17
    employer: Loylty Rewardz Mngt. Ltd.
    description: Synthesize business insights to give recommendations for actionables. Analyze trends to identify potential market for new product to create new revenue sources. Identify  industry or geographic trends with business strategy implications. Manage timely flow of business intelligence information to users. Communication with different stackholders to stay abreast of industry
  - title: System Analyst
-   start: May'2016
-   end: Jun'2016
+   start: May'16
+   end: Jun'16
    employer: National Highway Authority of India
    description: I worked as an auditor to analyze the system before releasing it for production, submitted report to highlight flaws as well as future upgradation in the system.
 
