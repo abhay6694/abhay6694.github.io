@@ -12,7 +12,7 @@ primarylinks:
  - title: Wordpress
    url: https://wordpress.com/view/ajourney870.wordpress.com
  - title: GitHub
-   url: https://github.com/abhayagarwal94/
+   url: https://github.com/abhay6694/
  - title: StackOverflow
    url: https://stackoverflow.com/users/9068576/abhay-agarwal
  - title: Medium
@@ -85,7 +85,7 @@ udemy:
 
 #List of interesting Github repo/projects to include - optional
 github:
- - abhayagarwal94.github.io
+ - abhay6694.github.io
  - Social-Interaction-WebApp
  - Face-Similarity
  - IoT-Data-Analytics
