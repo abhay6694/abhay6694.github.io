@@ -12,7 +12,7 @@ primarylinks:
  - title: Wordpress
    url: https://wordpress.com/view/ajourney870.wordpress.com
  - title: GitHub
-   url: https://github.com/abhayagarwal94
+   url: https://github.com/abhayagarwal94/
  - title: StackOverflow
    url: https://stackoverflow.com/users/9068576/abhay-agarwal
  - title: Medium
@@ -26,6 +26,9 @@ skills:
  - Spark
  - Tableau
  - SQL
+ - Machine learning
+ - Data Visualization
+ - Deep Learning
  - Product management
  - API design
  - Project Management
@@ -33,9 +36,7 @@ skills:
  - SQL
  - REST
  - Technical Architecture
- - Machine learning
- - Data Visualization
- - Deep Learning
+ 
 
 #Work experience is required
 roles:
@@ -48,7 +49,7 @@ roles:
    start: Jun'17
    end: Oct'19
    employer: Squareone Insights Pvt Ltd
-   description: Initially, My role involved maintaining library of model documents, templates,& other reusable knowledge assets as well as gather business requirements from digital innovation teams. Eventually, I started drafting analytical solution and implementation approaches for different business problems using different algorithms such as classification(Logistics Regression, DT, RF, Naive Bayes), Time-series analysis, clustering techniques etc.
+   description: Initially, My role involved maintaining library of model documents, templates, other reusable knowledge assets as well as gather business requirements from digital innovation teams. Eventually, I started drafting analytical solution and implementation approaches for different business problems using different algorithms such as classification(Logistics Regression, DT, RF, Naive Bayes), Time-series analysis, clustering techniques etc.
  - title: Business Analyst
    start: Jul'16
    end: May'17
@@ -63,7 +64,7 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Technology (B.Tech.)
-   date: Jul'12-Jun'16
+   date: Jun'16
    subject: Electrical Engineering
    school: Indian Institute of Technology, Kanpur
 
@@ -76,7 +77,7 @@ coursera:
       optionalimage: https://www.google.com/search?q=nlp&sxsrf=ALeKk019oEXEWoMNYiIHVUuH-lFq ywvZA:1590139868695&source=lnms&tbm=isch&sa=X&ved=2ahUKEwid4ZDQlMfpAhXSILcAHXmzD2EQ_AUoAnoECBoQBA#imgrc=W8RhX3QXvy3woM
       date: May	16, 2020
 
-Udemy:
+udemy:
    profileurl: https://www.udemy.com/user/piyush-garg-28/
    courses:
     - title: Python and django full stack web developer bootcamp
